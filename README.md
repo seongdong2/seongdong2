@@ -1,4 +1,4 @@
-### IT IS WHAT IT IS ⚡
+### IT IS WHAT IT IS ✨
 
 <!--
 **seongdong2/seongdong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
