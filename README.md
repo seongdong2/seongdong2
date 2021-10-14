@@ -1,5 +1,9 @@
 ### IT IS WHAT IT IS ✨
 
+<div>
+  <h1>Hi there 👋  I'm seongdong<img align="right"src="https://komarev.com/ghpvc/?username=seongdong2" alt="seongdong2" />
+</div>
+
 <!--
 **seongdong2/seongdong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
