@@ -1,5 +1,3 @@
-### IT IS WHAT IT IS ✨
-
 <div>
   <h1>Hi there 👋  I'm seongdong<img align="right"src="https://komarev.com/ghpvc/?username=seongdong2" alt="seongdong2" />
 </h1>
@@ -9,6 +7,19 @@
   </p>
 </div>
 
+### 🌱 I’m currently learning ...                                                                             
+- Algorithm
+- Networking                                                                                                                                            
+- Simple Jenkins Project
+                                                                                                                                            
+### 😄 What I can Do                                                                                                                                            
+- Python
+- Setting Linux Server & Docker                                                                                                                                           
+
+### I have a Study Group Too !
+- [IT ISSUE](http://abit.ly/r2m3rv)                                                                                                                                           
+                                                                                                                                            
+                                                                                                                                       
 <!--
 **seongdong2/seongdong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+                                                                                                                                            
+
+                                                                                                                                            
