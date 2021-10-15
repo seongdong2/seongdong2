@@ -8,13 +8,15 @@
 </div>
 
 ### 🌱 I’m currently learning ...                                                                             
-- Algorithm
 - Networking                                                                                                                                            
-- Simple Jenkins Project
+- Jenkins Simple Project
+- Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
 - Python
-- Setting Linux Server & Docker                                                                                                                                           
+- Setting Linux Server & Docker
+- Setting CI/CD(Jenkins)
+                                                                                                                                           
 
 ### I have a Study Group Too !
 - [IT ISSUE](http://abit.ly/r2m3rv)                                                                                                                                           
