@@ -8,8 +8,8 @@
 </div>
 
 ### 🌱 I’m currently learning ...                                                                             
-- Networking                                                                                                                                            
-- Jenkins Simple Project
+- Linux                                                                                                                                           
+- Docker Simple Project
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
