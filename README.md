@@ -8,16 +8,15 @@
 </div>
 
 ### 🌱 I’m currently learning ...                                                                             
-- Linux                                                                                                                                           
-- Docker Simple Project
+- Cloud Infra                                                                                                                                           
+- Network
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
 - Python
 - Setting Linux Server & Docker
-- Setting CI/CD(Jenkins)
-                                                                                                                                           
 
+                                                                                                                                          
 ### I have a Study Group Too !
 - [IT ISSUE](http://abit.ly/r2m3rv)                                                                                                                                           
 - [IT NEWS SCRAPING](https://prong-ankle-923.notion.site/f3a3d0ab476e4b3db8749b40ca9dd89d?v=7b85b52846cd45e1ac9025531dbf5819)                                                                                                                                            
