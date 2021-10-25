@@ -9,7 +9,7 @@
 
 ### 🌱 I’m currently learning ...                                                                             
 - Cloud Infra                                                                                                                                           
-- Network
+- Server/Network
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
