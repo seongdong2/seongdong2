@@ -8,8 +8,8 @@
 </div>
 
 ### 🌱 I’m currently learning ...                                                                             
-- Cloud Infra                                                                                                                                           
-- Server/Network
+- Infra                                                                                                                                           
+- Docker
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
