@@ -7,9 +7,8 @@
   </p>
 </div>
 
-### 🌱 I’m currently learning ...                                                                             
-- Infra                                                                                                                                           
-- Docker
+### 🌱 I’m currently learning ...                                                                                                                                                                                                                      
+- Network
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
