@@ -13,7 +13,7 @@
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
 - Python
-- Setting Linux Server & Docker
+- Setting Linux Server
 
                                                                                                                                           
 ### I have a Study Group Too !
