@@ -12,10 +12,10 @@
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
-- Python
-- Raspberry fi & Ar                                                                                                                                           
+- Python                                                                                                                                           
 - Setting Linux Server
 
+                                                                                                                                            
                                                                                                                                           
 ### I have a Study Group Too !
 - [IT ISSUE](http://abit.ly/r2m3rv)                                                                                                                                           
