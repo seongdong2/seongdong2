@@ -7,12 +7,13 @@
   </p>
 </div>
 
-### 🌱 I’m currently learning ...                                                                                                                                                                                                                      
+### 🌱 I’m currently learning ...                                                                                                                                                                                                                    
 - Network
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
 - Python
+- Raspberry fi & Ar                                                                                                                                           
 - Setting Linux Server
 
                                                                                                                                           
