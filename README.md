@@ -8,7 +8,7 @@
 </div>
 
 ### 🌱 I’m currently learning ...                                                                                                                                                                                                                    
-- Network
+- DevOps (Docker & k8s)
 - Algorithm                                                                                                                                            
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
