@@ -8,6 +8,7 @@
 </div>
 
 ### 🌱 I’m currently learning ...                                                                                                                                                                                                                    
+- Infra 
 - DevOps (Docker & k8s)
 - Algorithm                                                                                                                                            
                                                                                                                                             
