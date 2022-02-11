@@ -20,7 +20,7 @@
                                                                                                                                           
 ### I wanna getting in to studying like infra something. Please, Contact me from here !
 - chosd@mz.co.kr / chosd1123@naver.com
-- josdkr @ instargram                                                                                                                   
+- joesdkr @ instargram                                                                                                                   
                                                                                                                                        
 <!--
 **seongdong2/seongdong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
