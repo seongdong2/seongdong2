@@ -9,7 +9,7 @@
 
 ### 🌱 I’m currently learning ...                                                                                                                                                                                                                    
 - Cloud Computing
-- Nginx / Django
+- Django
                                                                                                                                                                                                                                                        
                                                                                                                                             
 ### 😄 What I can Do                                                                                                                                            
