@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi there 👋  I'm Dawn<img align="right"src="https://komarev.com/ghpvc/?username=seongdong2" alt="seongdong2" />
+  <h1>👋 This is Dawn<img align="right"src="https://komarev.com/ghpvc/?username=seongdong2" alt="seongdong2" />
 </h1>
  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongdong2&layout=compact&hide=html&langs_count=6" alt="seongdong2" width="45%" />
